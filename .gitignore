@@ -1,0 +1,4 @@
+ArduCamRGB\*.txt
+ArduCamRGB\.vscode\**
+spectrometer\**
+.git\**

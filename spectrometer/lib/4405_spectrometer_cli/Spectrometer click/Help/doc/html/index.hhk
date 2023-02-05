@@ -1,0 +1,1393 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html"><param name="Name" value="AGC_GAIN_MAX Register Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg0__register__gain__settings.html"><param name="Name" value="CFG0 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html"><param name="Name" value="CFG1 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html"><param name="Name" value="CFG10 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg12__register__gain__settings.html"><param name="Name" value="CFG12 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg3__register__gain__settings.html"><param name="Name" value="CFG3 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg6__register__gain__settings.html"><param name="Name" value="CFG6 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg8__register__gain__settings.html"><param name="Name" value="CFG8 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg9__register__gain__settings.html"><param name="Name" value="CFG9 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register__bit__settings.html"><param name="Name" value="CONFIG Register Bit Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__control__register__bit__settings.html"><param name="Name" value="CONTROL Register Bit Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__devide__i2c__slave__address.html"><param name="Name" value="Devide I2C Slave Address"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__enable__register__bit__settings.html"><param name="Name" value="ENABLE Register Bit Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html"><param name="Name" value="Error Code"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__status__register__flags.html"><param name="Name" value="FD STATUS Register Flags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html"><param name="Name" value="FD_TIME_2 Register Gain Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__cfg0__register__settings.html"><param name="Name" value="FIFO CFG0 Register Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html"><param name="Name" value="FIFO MAP Register Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__flicker__status__flags.html"><param name="Name" value="Flicker status flags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gpio__2__register__bit__settings.html"><param name="Name" value="GPIO 2 Register Bit Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gpio__register__bit__settings.html"><param name="Name" value="GPIO Register Bit Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__id__value.html"><param name="Name" value="ID value"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__intenab__register__bit__settings.html"><param name="Name" value="INTENAB Register Bit Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html"><param name="Name" value="LED Register Bit Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__macros.html"><param name="Name" value="Macros"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__map__mikrobus.html"><param name="Name" value="MikroBUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html"><param name="Name" value="PERS Register Settings"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="Public function"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="Register Map"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga4982c9f5c46262f4b0151f2d1bbc7c1b"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga5236d50350a3894ce73a18a3da937b16"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_05"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#gab5ad7581df6361bd6f49b3bd0823a6bb"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_128"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga08dcfe8357aabf88491db8d8921c1edc"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga22ac0f6439c972f6c3d9edcbbfd4ac95"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga381bca13c26cf71de1d12e6572bfae82"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_256"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#gae4bf7a14083e2e6c9cf3e2249d98c501"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#gab5fef81f462e9937b4638d95d36f2589"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_32"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga666e6a6852ee5ff8b1a3ca4bceb6dbfb"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga4d39f54e2f556bfe2049321e9d07d848"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_512"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga378606561afd1b67828a17fe2c5dc27f"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_64"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga47a2f25ec534636939832d292deabd88"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga16425be3c91e55e8bdaa547424c28b11"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_05"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#gaa62c190e4180ebce374625e24c82b653"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_128"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga93e3bfcef3301c1c893ebe2cf573a558"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga506b65b29cb1808b6723401b23640cff"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga2dd6adac57dcd95f923859551eed4616"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_256"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga625f6c83bd16f445e994d7bb755b28b5"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga4d2730f68da8861b1b2e2a49e095685e"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_32"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#gab2792a8e9f003cd285339442bff82ade"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga5ccbf0c395cd3ae23994aca435035524"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_512"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#ga61ca56a8442880729c4f8e53150abf6b"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_64"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__agc__gain__max__register__settings.html#gaa1a1e9b3908e34a07807907677860242"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga4a62424a4f3fe8113d0172e108858545"><param name="Name" value="SPECTROMETER_ASTAT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaa37c88a44c587faafcf0fa69ec4ff85a"><param name="Name" value="SPECTROMETER_ASTATUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaba78fc71045aa01467eab1e0c456d316"><param name="Name" value="SPECTROMETER_ASTEP_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga72ba9781606fd5f711f92e64fca29f5f"><param name="Name" value="SPECTROMETER_ASTEP_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga1efab48aab203f0dd5f54f0c4c3f3d54"><param name="Name" value="SPECTROMETER_ATIME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga3d0a1b12318566a3e65d203dd3820713"><param name="Name" value="SPECTROMETER_AUXID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaa8532d371282c2ba85f5f10811a4a62e"><param name="Name" value="SPECTROMETER_AZ_CFG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gabb96b048c7156c43e838646ca250be70"><param name="Name" value="SPECTROMETER_CFG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaf09bcd086effa9e702b7e2598fcabccc"><param name="Name" value="SPECTROMETER_CFG_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg0__register__gain__settings.html#ga958511c39398b77ff3e71f33b92ff148"><param name="Name" value="SPECTROMETER_CFG_0_LOW_POW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg0__register__gain__settings.html#ga82ea6b4ac765e3e0e8236acf5a8bb066"><param name="Name" value="SPECTROMETER_CFG_0_REG_BANK_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg0__register__gain__settings.html#ga9946d0317e355e1eeba51dc0d4eeaea9"><param name="Name" value="SPECTROMETER_CFG_0_REG_BANK_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg0__register__gain__settings.html#gaa51402a758ae4d3a9334be31617d8572"><param name="Name" value="SPECTROMETER_CFG_0_WLONG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gadf87d82d6f017c4ede80a149e622dd7e"><param name="Name" value="SPECTROMETER_CFG_10"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#gaf9ad971362671b9a6518614db96bf77e"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#ga3990bebbfccfd0277aea6f3e94c05db6"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#ga128f4de45dde8041bfdeeb19f99c1881"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#ga0659fa970673827d676bf9a4e708563f"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#ga9088bac04bbf2ed24f38f18ff6b063b4"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#gab950ae3efdee16105717551eaad43c6a"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#ga34f53de8dae5edfa6c35425f341f9a6b"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#ga0da78eebb6deba24af9174afe7207258"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg10__register__gain__settings.html#gafa3c8e584801895766014866d03f82d3"><param name="Name" value="SPECTROMETER_CFG_10_FD_PERS_DEF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga4f42c5a9c797925f7b2763338d07fbed"><param name="Name" value="SPECTROMETER_CFG_12"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg12__register__gain__settings.html#gaaf947992655b96299067f8be5fd705f1"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg12__register__gain__settings.html#ga78c08ada43d3328919ae9c67d57d4f25"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg12__register__gain__settings.html#gad18385d5c91b96da9ed481b303023740"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg12__register__gain__settings.html#ga6b10dd078fe188e279db38424d4e3a6e"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg12__register__gain__settings.html#ga4fd3b202da3ca1c3bf123dd589192e4e"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaedcc483f7bb31b1a9c5559d7cdb8168e"><param name="Name" value="SPECTROMETER_CFG_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#gab43af00d9fb89d7f75f44928b5c76a07"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_05"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#ga160dcefab1d85da3918cd75ccb936fa1"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_128"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#ga5923e4bff1a6158d8dbf99eb2e7270e9"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#ga4bebf31a5e4652baf8ca94f1ee0aeeb8"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#ga23bf658c4319595501b64b222c37e7e8"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_256"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#gab14b5f4bcd7abf14c6cf1d7784267a44"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#gad71de4cf396c75b5d1fb304ac2872271"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_32"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#ga33d9745fe6bb27ae12e397d10d7abd8e"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#ga969227a31f17dce336851a71db1a276a"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_512"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#ga8dca9f25562688f71f9e974ee30e585d"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_64"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg1__register__gain__settings.html#gad211cdc33c7c31e094b5758826274bb8"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gac6fd1cbab859a6114b3411b445dc9a1e"><param name="Name" value="SPECTROMETER_CFG_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg3__register__gain__settings.html#ga160275b052fec15fd984b17531e3394b"><param name="Name" value="SPECTROMETER_CFG_3_SAI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga8f7737edb08946aee2eecce02c3d1139"><param name="Name" value="SPECTROMETER_CFG_6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg6__register__gain__settings.html#ga2949b0d723c5986c5bebcb654732e49e"><param name="Name" value="SPECTROMETER_CFG_6_SMUX_CMD_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg6__register__gain__settings.html#gaebc4381e126359a90367c99793fd94e6"><param name="Name" value="SPECTROMETER_CFG_6_SMUX_CMD_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg6__register__gain__settings.html#gad8a95c8596fee1c4ab84ef43a09b384f"><param name="Name" value="SPECTROMETER_CFG_6_SMUX_CMD_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad33f47881bb53f231e8a7cff46c33d07"><param name="Name" value="SPECTROMETER_CFG_8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg8__register__gain__settings.html#ga98f558fae89e17ed72ece6dc2518cc5a"><param name="Name" value="SPECTROMETER_CFG_8_FD_AGC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg8__register__gain__settings.html#gad9458676a3ecaa6af206d6fd35582839"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg8__register__gain__settings.html#ga2260fcfca2a04dec714e58a09d22dae2"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg8__register__gain__settings.html#ga234230f2815f587c6103c02be2c63f27"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg8__register__gain__settings.html#gaa5000bbfeb689d8528c3ace697b03859"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg8__register__gain__settings.html#ga2571a7fd591b088457ba3e699cc5b42f"><param name="Name" value="SPECTROMETER_CFG_8_SP_AGC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga2a4887fe20f34742c8d36e39a098ce3d"><param name="Name" value="SPECTROMETER_CFG_9"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg9__register__gain__settings.html#gad9afe2e273d64f7409faadb24b01b5af"><param name="Name" value="SPECTROMETER_CFG_9_SIEN_FD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__cfg9__register__gain__settings.html#gadb23af213821622fe196818c1d788043"><param name="Name" value="SPECTROMETER_CFG_9_SIEN_SMUX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register__bit__settings.html#ga20d9d5d54b5602e3e69957d0cf1315fd"><param name="Name" value="SPECTROMETER_CFG_INT_MODE_SPM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register__bit__settings.html#gaa171210b8745472d7ec58c6603e20e69"><param name="Name" value="SPECTROMETER_CFG_INT_MODE_SYND"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register__bit__settings.html#gaea9ec3643134194f4066cb95c8f78d75"><param name="Name" value="SPECTROMETER_CFG_INT_MODE_SYNS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register__bit__settings.html#gaf00625f0ae41f97e3d290ee33c2e2428"><param name="Name" value="SPECTROMETER_CFG_INT_SEL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register__bit__settings.html#ga4a768f3cc0af92cebc378a00b061d085"><param name="Name" value="SPECTROMETER_CFG_LED_SEL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga93b2cb01e8e82eba22abf91eb278a261"><param name="Name" value="SPECTROMETER_CH0_ADC_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga628d293fccb02ea2755b9dce5d47274a"><param name="Name" value="SPECTROMETER_CH0_ADC_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga910e4c6a96aea068537dbf4cfa069f3a"><param name="Name" value="SPECTROMETER_CH0_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gafcaa8c610499e7a3179c0b2bbd2d8a0b"><param name="Name" value="SPECTROMETER_CH0_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gac7fcaa57f9d0dd222dc11851bbf0f03d"><param name="Name" value="SPECTROMETER_CH1_ADC_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaa4529c431e3008f7d29bb496bc290000"><param name="Name" value="SPECTROMETER_CH1_ADC_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga81bcd2cb73f3c4fc362e6c317854b788"><param name="Name" value="SPECTROMETER_CH1_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga1ff2a26d04b867af55c10777d651cf48"><param name="Name" value="SPECTROMETER_CH1_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gac8cb219c2a7107d6a335255320ce7645"><param name="Name" value="SPECTROMETER_CH2_ADC_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga5a84b47f47ee36b5901153b7aff427b6"><param name="Name" value="SPECTROMETER_CH2_ADC_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gabf22e7b3680433b30b6476e45ec0c1f6"><param name="Name" value="SPECTROMETER_CH2_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gada5b48a63f1e2c4073b12e217d49d19f"><param name="Name" value="SPECTROMETER_CH2_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga18536e2ab85907e12771e20a5a4762ec"><param name="Name" value="SPECTROMETER_CH3_ADC_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga1bb757e554613a9c2bdd762e91f3bd79"><param name="Name" value="SPECTROMETER_CH3_ADC_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaab86d613954902c38bfc717f79f759d1"><param name="Name" value="SPECTROMETER_CH3_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gadc4e4c35828f68dba12408cba123adaa"><param name="Name" value="SPECTROMETER_CH3_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga887d4123911363cb8b5109e72dcd4fbb"><param name="Name" value="SPECTROMETER_CH4_ADC_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga6e8d127d51cecc3f93b0a9a29264bf71"><param name="Name" value="SPECTROMETER_CH4_ADC_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gabf4393879d5be7d2d7366b6ba68a02ef"><param name="Name" value="SPECTROMETER_CH4_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaa6474142f95b8e25a3557fc99b073d08"><param name="Name" value="SPECTROMETER_CH4_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga06c6fc105cec6f65d9fa2bca10fc5e6a"><param name="Name" value="SPECTROMETER_CH5_ADC_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga23832b4013d25e3b11288d7611a8723a"><param name="Name" value="SPECTROMETER_CH5_ADC_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gabce5e4c6e002dbe3745bc770ef8ebad5"><param name="Name" value="SPECTROMETER_CH5_DATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaeb8c19e6ae1898d7dc356d6c64960ef0"><param name="Name" value="SPECTROMETER_CH5_DATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga58eda231fe6e3bfc162eadf14e35e8f6"><param name="Name" value="SPECTROMETER_CTL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__control__register__bit__settings.html#ga4d6b64dc90d078900c86acee2ef6a23d"><param name="Name" value="SPECTROMETER_CTL_AZ_SP_MAN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__control__register__bit__settings.html#gae25b401bde6f3d2be5243d47052aaf69"><param name="Name" value="SPECTROMETER_CTL_CLR_SAI_ACT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__control__register__bit__settings.html#ga2cfcb5719392dab53e163323100291b4"><param name="Name" value="SPECTROMETER_CTL_FIFO_CLR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__flicker__status__flags.html#gad1352475e07bb8649b94acb845f66c40"><param name="Name" value="SPECTROMETER_DETECTED_100_HZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__flicker__status__flags.html#ga7cae2d186e2fd6d2169281c5a684e598"><param name="Name" value="SPECTROMETER_DETECTED_120_HZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga2571ab9c2b3d6057d12d45229f8eb821"><param name="Name" value="SPECTROMETER_ENABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__enable__register__bit__settings.html#ga3f0c5bf408ed8ff9ca39883af129b066"><param name="Name" value="SPECTROMETER_EN_FDEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__enable__register__bit__settings.html#ga4bd68356851d8e939f4c0f579a52af4b"><param name="Name" value="SPECTROMETER_EN_PON"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__enable__register__bit__settings.html#ga938a32a2371102ab85b083cb707c8d00"><param name="Name" value="SPECTROMETER_EN_SMUXEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__enable__register__bit__settings.html#ga5192ff5f893078eaffe44ef2433f7975"><param name="Name" value="SPECTROMETER_EN_SP_EN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__enable__register__bit__settings.html#gae1839d1de7af4f4f8700cb20dd70bffd"><param name="Name" value="SPECTROMETER_EN_WEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaed78da02406d2080621addb83f85eb2d"><param name="Name" value="SPECTROMETER_FDATA_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga74fa87401fdc9439a5e6d9c31f57705a"><param name="Name" value="SPECTROMETER_FDATA_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga6b0a1551a93690a4d91076b1eb7304c5"><param name="Name" value="SPECTROMETER_FD_CFG0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__cfg0__register__settings.html#ga2721ed14bac9186fc2ed7607e7bcaf24"><param name="Name" value="SPECTROMETER_FD_CFG0_FD_FIFO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gab5309d2aaf9589660d93b92705848d71"><param name="Name" value="SPECTROMETER_FD_STAT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__status__register__flags.html#ga78b7e8b34edf438ca7f3d67828de16f0"><param name="Name" value="SPECTROMETER_FD_STAT_FD_100HZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__status__register__flags.html#gaecd980648b72828132639ed21c3cee6c"><param name="Name" value="SPECTROMETER_FD_STAT_FD_100HZ_VALID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__status__register__flags.html#gaea1233ec994c36a29c4d140ba1bbf684"><param name="Name" value="SPECTROMETER_FD_STAT_FD_120HZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__status__register__flags.html#ga0c04535b049a90deb3227d69a421296e"><param name="Name" value="SPECTROMETER_FD_STAT_FD_120HZ_VALID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__status__register__flags.html#gadb00a376dc2861c81a4635c58291a06d"><param name="Name" value="SPECTROMETER_FD_STAT_FD_SAT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__status__register__flags.html#ga00e47a66c3fda3baf3ce9e9e7c0486d4"><param name="Name" value="SPECTROMETER_FD_STAT_FD_VALID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gafd6a912296380c2b26479b69d877b524"><param name="Name" value="SPECTROMETER_FD_TIME_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga8b679c9cf862a1ca6b35fb917eb214ab"><param name="Name" value="SPECTROMETER_FD_TIME_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#gafc7220d68cbd2eba925ee43d7260e05d"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_05"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#ga6edf7db768869b2dd930c9ec38a28e46"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_128"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#ga13333c60c5e31a82742a95d7db57014f"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#gacef03bf59e43f8d28afdb88073d3af98"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#ga2a0df2d985f0dab801a5d7aa06662bbb"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_256"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#gae2200f637c2e4c7e59bcc753b7bd5bcc"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#gaba74e79598f17337a80a597614e5fcdd"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_32"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#gacb2ed0bd0be2ce6cf400e573d82e3b90"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#ga2fcaa506468a52bbc3e88dac3eca136b"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_512"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#ga1b592cb21fd85839040e5efca9f28479"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_64"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fd__time__2__register__gain__settings.html#gab4f124017cfb156e27a3ce4693d60918"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gafab196e7052828e0bda8a93625fe9a58"><param name="Name" value="SPECTROMETER_FIFO_LVL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga65ef8f7d12f54724b0a280b98ff663db"><param name="Name" value="SPECTROMETER_FIFO_MAP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html#ga88d1b620608077d3f79acd9a480194f9"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_ASTAT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html#ga3695cc7f14428c6001b86bde69798444"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html#gac3f8b6e8aa7dea0df60a69d10a01afaa"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html#ga48edc8af13c1b480885087ff8468c3b4"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html#gab95685a8a9a96bf9146dd8f3d9e5cb06"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html#gae2124e9a84ad1678d5d6129ec4541a92"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__fifo__map__register__settings.html#ga27bff388efc5dbe6ca749d6b35e33f3b"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga133acd5d71f603979a3e6d13e95b289a"><param name="Name" value="SPECTROMETER_GPIO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga0997b565c78c7257fb05f340928e3397"><param name="Name" value="SPECTROMETER_GPIO_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gpio__2__register__bit__settings.html#gaea4ba53b213eb6a1ae26d2e0c0b93714"><param name="Name" value="SPECTROMETER_GPIO_2_GPIO_IN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gpio__2__register__bit__settings.html#ga963f2b8166c67a288afd4fc6f8fa9dee"><param name="Name" value="SPECTROMETER_GPIO_2_GPIO_INV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gpio__2__register__bit__settings.html#ga1abf61e5dbdd7a66b6302d7f464c99f9"><param name="Name" value="SPECTROMETER_GPIO_2_GPIO_OUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gpio__register__bit__settings.html#ga79f73b9c57637f8b149bdd85fdb9e889"><param name="Name" value="SPECTROMETER_GPIO_PD_GPIO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gpio__register__bit__settings.html#gac4fb8c3e5c75b7819ac417bdacb4ee61"><param name="Name" value="SPECTROMETER_GPIO_PD_INT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__devide__i2c__slave__address.html#ga831d6a48978e06eee120153e41e902f0"><param name="Name" value="SPECTROMETER_I2C_DEV_ADR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga645d3e4c6536c861425b0f1545a6a2c1"><param name="Name" value="SPECTROMETER_ID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__id__value.html#gaf34a7815c783cd20b3d349f9cb5e02cd"><param name="Name" value="SPECTROMETER_ID_VALUE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga15b433a8361aae1ce76bb4074bdd8f73"><param name="Name" value="SPECTROMETER_INIT_ERROR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaedf248d28e3a5461ad02f3a0f1a5a4dd"><param name="Name" value="SPECTROMETER_INTENAB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__intenab__register__bit__settings.html#ga43bd12a414eb931f96584d78c0d4b5a2"><param name="Name" value="SPECTROMETER_INTENAB_ASIEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__intenab__register__bit__settings.html#gaf7d19fce36bd939a52c1084c4539b96f"><param name="Name" value="SPECTROMETER_INTENAB_F_IEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__intenab__register__bit__settings.html#gadbaf5496a4e82d795276d212f6a2bc22"><param name="Name" value="SPECTROMETER_INTENAB_SIEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__intenab__register__bit__settings.html#gaf604636dec946b3409e9eefc69ab6433"><param name="Name" value="SPECTROMETER_INTENAB_SP_IEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad1d0d38e0bf22a9c8e1d1fb69eee6b80"><param name="Name" value="SPECTROMETER_ITIME_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga681035af56af49ca4abfae7ac1dd2907"><param name="Name" value="SPECTROMETER_ITIME_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga701a1fdbc9628701a314dbb0de2f9aad"><param name="Name" value="SPECTROMETER_ITIME_M"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gadb21968e3206b2a851fe42d4b3eaec26"><param name="Name" value="SPECTROMETER_LED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#gafb2d0ce75632caf6768d0bd49d70ae82"><param name="Name" value="SPECTROMETER_LED_LED_ACT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#ga7bcd37dee3f12765a6290a8cb683ffce"><param name="Name" value="SPECTROMETER_LED_LED_DRV_10MA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#ga4d14f86b9fe02bf12de42c2c0f4348f9"><param name="Name" value="SPECTROMETER_LED_LED_DRV_12MA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#ga3d5f2d7703821d6f772a60c35d3e70e5"><param name="Name" value="SPECTROMETER_LED_LED_DRV_256MA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#gab6c3111900a1487b9cc885a2595d934b"><param name="Name" value="SPECTROMETER_LED_LED_DRV_258MA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#ga21bb6bb9c852c626b4fc9f0d06b19d9d"><param name="Name" value="SPECTROMETER_LED_LED_DRV_4MA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#ga6ce673fd2d8ddf481569e7d073db63b5"><param name="Name" value="SPECTROMETER_LED_LED_DRV_6MA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__led__register__bit__settings.html#ga1a5740d4ceac239bcbaa2b608fc09e49"><param name="Name" value="SPECTROMETER_LED_LED_DRV_8MA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__map__mikrobus.html#ga082bc90e6f56853e4f3039c83572c0bf"><param name="Name" value="SPECTROMETER_MAP_MIKROBUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#gae3a32ab88642d84edd02fec2fd63314f"><param name="Name" value="SPECTROMETER_OK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gab52727b5e7c15c24f25fe87f6f2a2864"><param name="Name" value="SPECTROMETER_PERS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#gad6940d0707f69f33e670a2100f9e1e66"><param name="Name" value="SPECTROMETER_PERS_APERS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga9501272ed6381977a307e17415c9d138"><param name="Name" value="SPECTROMETER_PERS_APERS_10"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#gacb832e9b77143d4cc7b86e556de0595c"><param name="Name" value="SPECTROMETER_PERS_APERS_15"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga0c15916d6879a5f8008f37519da02d4b"><param name="Name" value="SPECTROMETER_PERS_APERS_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga74e6e63c50319e9bd877eb34bbdc7536"><param name="Name" value="SPECTROMETER_PERS_APERS_20"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#gabdcc379c842835be62e27e44e4c22b45"><param name="Name" value="SPECTROMETER_PERS_APERS_25"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga174b665d191cd08db0b7c1fe40bf7feb"><param name="Name" value="SPECTROMETER_PERS_APERS_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#gaf4719707478420262cc87c6493aea679"><param name="Name" value="SPECTROMETER_PERS_APERS_30"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga2f5805fda987682e851372187aa3ed39"><param name="Name" value="SPECTROMETER_PERS_APERS_35"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga334323f1803d622709201b46248ddfad"><param name="Name" value="SPECTROMETER_PERS_APERS_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga66c49d693593813250de38b9c2b60ea3"><param name="Name" value="SPECTROMETER_PERS_APERS_40"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#gaf96b1b29b10e64e070b96188a23b7243"><param name="Name" value="SPECTROMETER_PERS_APERS_45"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga32706c10feb534295d90a8754c6184e0"><param name="Name" value="SPECTROMETER_PERS_APERS_50"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#gaf50fdbd99af9cd0720f0c55744048889"><param name="Name" value="SPECTROMETER_PERS_APERS_55"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#gaa1b1531d0eb647f5b5b80bcf4ebed390"><param name="Name" value="SPECTROMETER_PERS_APERS_5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__pers__register__settings.html#ga0839c20ba250792ce6703c9bfcb963d2"><param name="Name" value="SPECTROMETER_PERS_APERS_60"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__flicker__status__flags.html#gaeabbd345573b0b4adbf2b1fb59eb33ee"><param name="Name" value="SPECTROMETER_READING_ERROR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga804240c29a49c2b46212f4cd1e7a3c05"><param name="Name" value="SPECTROMETER_RETVAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad918722f5f361d719107588e6b937972"><param name="Name" value="SPECTROMETER_REVID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gae058483d460bca67ee3d1b8087f7a14f"><param name="Name" value="SPECTROMETER_SP_TH_H_LSB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga8c327c5728f597e11f8f7ab15340b81d"><param name="Name" value="SPECTROMETER_SP_TH_H_MSB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga1f4761a254864b57fb02e287f5321caa"><param name="Name" value="SPECTROMETER_SP_TH_L_LSB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga245374eebc32806d02b21dba6ac6e9f1"><param name="Name" value="SPECTROMETER_SP_TH_L_MSB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga21b5f25c2eb084717ba3bd2b6c6ebdb8"><param name="Name" value="SPECTROMETER_STAT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad28717a6dd20dc5bc4da4bf858012c33"><param name="Name" value="SPECTROMETER_STATUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html#gad4e45a9026eb0607fff2d7d779214079"><param name="Name" value="SPECTROMETER_STATUS_AINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html#ga3ef38bf0c76c1bcf14aa20e9b79c7332"><param name="Name" value="SPECTROMETER_STATUS_ASAT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html#ga2a1518743c8d3513e4a88a234b4bf83f"><param name="Name" value="SPECTROMETER_STATUS_CINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html#gafa83ff16c2c5d711581e91d36b8b3063"><param name="Name" value="SPECTROMETER_STATUS_FINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html#gabd3752af9da6e47b96ef8256472efe2c"><param name="Name" value="SPECTROMETER_STATUS_SINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga92cc50668abf667c3c29ed1ac1a34f9d"><param name="Name" value="SPECTROMETER_STAT_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__2__register__flags.html#ga40db7237908d47c65abbc4602fcf63ac"><param name="Name" value="SPECTROMETER_STAT_2_ASAT_ANA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__2__register__flags.html#ga05bc93fc8b19f1dddbb0b5015ec6c714"><param name="Name" value="SPECTROMETER_STAT_2_ASAT_DIG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__2__register__flags.html#ga1070fc23f490d112b8c9f2ca9f3253f6"><param name="Name" value="SPECTROMETER_STAT_2_AVALID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__2__register__flags.html#gacde26d512c4b05f0aa8854d4f503fa89"><param name="Name" value="SPECTROMETER_STAT_2_FDSAT_ANA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__2__register__flags.html#ga25eb4b0244daed9cc8d3eea683fdba9a"><param name="Name" value="SPECTROMETER_STAT_2_FDSAT_DIG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga793c28f2e60896bb6cc61682bb1166ba"><param name="Name" value="SPECTROMETER_STAT_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__3__register__flags.html#ga30c47c0f67fae09f87ce1c9d9ea6b19d"><param name="Name" value="SPECTROMETER_STAT_3_INT_SP_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__3__register__flags.html#gaa4dd7b0a8b5aa64a6f2cfaad084300b3"><param name="Name" value="SPECTROMETER_STAT_3_INT_SP_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaf293b9c50362b148010fde2597c0509f"><param name="Name" value="SPECTROMETER_STAT_5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__5__register__flags.html#ga1ce2dcb383b4385fda787ce313f09dee"><param name="Name" value="SPECTROMETER_STAT_5_SINT_FD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__5__register__flags.html#gaabc4bc469196d17f587cbea13fc69b21"><param name="Name" value="SPECTROMETER_STAT_5_SINT_SMUX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga55f2c85850f4483447d8481d7430cbaf"><param name="Name" value="SPECTROMETER_STAT_6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__6__register__flags.html#ga349df0fd7d366e428bd4bc7f8c07ab7f"><param name="Name" value="SPECTROMETER_STAT_6_FD_TRIG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__6__register__flags.html#ga2c655d110f56b0137d6d17692c0268a5"><param name="Name" value="SPECTROMETER_STAT_6_FIFO_OV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__6__register__flags.html#gaf0de5ad7da4408e9446de3289d737510"><param name="Name" value="SPECTROMETER_STAT_6_INT_BUSY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__6__register__flags.html#ga96bdf1fb97396c3c76ca81abdbbead93"><param name="Name" value="SPECTROMETER_STAT_6_OVTEMP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__6__register__flags.html#gaf4c6690120f4eed266d5351653736a43"><param name="Name" value="SPECTROMETER_STAT_6_SAI_ACT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__6__register__flags.html#ga6ba456326e4c9c8fc0f4f8fc65e51dd7"><param name="Name" value="SPECTROMETER_STAT_6_SP_TRIG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html#ga30d733a5c21837cca2bd035d26a5c6b7"><param name="Name" value="SPECTROMETER_STAT_READY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html#ga071dd2178e8b9a03cb45e58d02c8b7d4"><param name="Name" value="SPECTROMETER_STAT_WAIT_SYNC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaa27ef14cfc859dd477834919cf834fec"><param name="Name" value="SPECTROMETER_SYNC_EDGE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__flicker__status__flags.html#ga9ba6d031eba46eba85ecbef7730165b6"><param name="Name" value="SPECTROMETER_UNKNOWN_FREQ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga649773bc2d28b473b8d7353eb9d2cae3"><param name="Name" value="SPECTROMETER_WTIME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__2__register__flags.html"><param name="Name" value="STATUS 2 Register Flags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__3__register__flags.html"><param name="Name" value="STATUS 3 Register Flags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__5__register__flags.html"><param name="Name" value="STATUS 5 Register Flags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__6__register__flags.html"><param name="Name" value="STATUS 6 Register Flags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register__flags.html"><param name="Name" value="STATUS Register Flags"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__spectrometer.html"><param name="Name" value="Spectrometer Click Driver"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html"><param name="Name" value="Types"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a0e95431f48ee71c1040217b94766ffcf"><param name="Name" value="application_init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a362899c9f270bb296179185fd96b878e"><param name="Name" value="application_task"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="Name" value="i2c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="Name" value="i2c_address"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="Name" value="i2c_speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#aca157de093dd75a2685a6b26c1c2d576"><param name="Name" value="int_pin"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#aca157de093dd75a2685a6b26c1c2d576"><param name="Name" value="spectrometer_cfg_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html#a9474fb5652d7ba15f0048b07f9360af6"><param name="Name" value="int_pin"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html#a9474fb5652d7ba15f0048b07f9360af6"><param name="Name" value="spectrometer_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a0e95431f48ee71c1040217b94766ffcf"><param name="Name" value="application_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a362899c9f270bb296179185fd96b878e"><param name="Name" value="application_task"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667"><param name="Name" value="main"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a6288eba0f8e8ad3ab1544ad731eb7667"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="Name" value="scl"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="Name" value="sda"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="Name" value="slave_address"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4982c9f5c46262f4b0151f2d1bbc7c1b"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga5236d50350a3894ce73a18a3da937b16"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_05"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga22ac0f6439c972f6c3d9edcbbfd4ac95"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab5ad7581df6361bd6f49b3bd0823a6bb"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_128"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga08dcfe8357aabf88491db8d8921c1edc"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_16"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae4bf7a14083e2e6c9cf3e2249d98c501"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga381bca13c26cf71de1d12e6572bfae82"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_256"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab5fef81f462e9937b4638d95d36f2589"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_32"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga666e6a6852ee5ff8b1a3ca4bceb6dbfb"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4d39f54e2f556bfe2049321e9d07d848"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_512"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga378606561afd1b67828a17fe2c5dc27f"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_64"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga47a2f25ec534636939832d292deabd88"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_AGAIN_MAX_8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga16425be3c91e55e8bdaa547424c28b11"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_05"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga506b65b29cb1808b6723401b23640cff"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa62c190e4180ebce374625e24c82b653"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_128"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga93e3bfcef3301c1c893ebe2cf573a558"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_16"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga625f6c83bd16f445e994d7bb755b28b5"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2dd6adac57dcd95f923859551eed4616"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_256"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4d2730f68da8861b1b2e2a49e095685e"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_32"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab2792a8e9f003cd285339442bff82ade"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga5ccbf0c395cd3ae23994aca435035524"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_512"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga61ca56a8442880729c4f8e53150abf6b"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_64"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa1a1e9b3908e34a07807907677860242"><param name="Name" value="SPECTROMETER_AGC_GAIN_MAX_AGC_FD_GAIN_MAX_8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4a62424a4f3fe8113d0172e108858545"><param name="Name" value="SPECTROMETER_ASTAT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa37c88a44c587faafcf0fa69ec4ff85a"><param name="Name" value="SPECTROMETER_ASTATUS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaba78fc71045aa01467eab1e0c456d316"><param name="Name" value="SPECTROMETER_ASTEP_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga72ba9781606fd5f711f92e64fca29f5f"><param name="Name" value="SPECTROMETER_ASTEP_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1efab48aab203f0dd5f54f0c4c3f3d54"><param name="Name" value="SPECTROMETER_ATIME"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga3d0a1b12318566a3e65d203dd3820713"><param name="Name" value="SPECTROMETER_AUXID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa8532d371282c2ba85f5f10811a4a62e"><param name="Name" value="SPECTROMETER_AZ_CFG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gabb96b048c7156c43e838646ca250be70"><param name="Name" value="SPECTROMETER_CFG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf09bcd086effa9e702b7e2598fcabccc"><param name="Name" value="SPECTROMETER_CFG_0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga958511c39398b77ff3e71f33b92ff148"><param name="Name" value="SPECTROMETER_CFG_0_LOW_POW"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga82ea6b4ac765e3e0e8236acf5a8bb066"><param name="Name" value="SPECTROMETER_CFG_0_REG_BANK_0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga9946d0317e355e1eeba51dc0d4eeaea9"><param name="Name" value="SPECTROMETER_CFG_0_REG_BANK_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa51402a758ae4d3a9334be31617d8572"><param name="Name" value="SPECTROMETER_CFG_0_WLONG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaedcc483f7bb31b1a9c5559d7cdb8168e"><param name="Name" value="SPECTROMETER_CFG_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gadf87d82d6f017c4ede80a149e622dd7e"><param name="Name" value="SPECTROMETER_CFG_10"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf9ad971362671b9a6518614db96bf77e"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga3990bebbfccfd0277aea6f3e94c05db6"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga128f4de45dde8041bfdeeb19f99c1881"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga0659fa970673827d676bf9a4e708563f"><param name="Name" value="SPECTROMETER_CFG_10_AGC_H_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga9088bac04bbf2ed24f38f18ff6b063b4"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab950ae3efdee16105717551eaad43c6a"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga34f53de8dae5edfa6c35425f341f9a6b"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga0da78eebb6deba24af9174afe7207258"><param name="Name" value="SPECTROMETER_CFG_10_AGC_L_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gafa3c8e584801895766014866d03f82d3"><param name="Name" value="SPECTROMETER_CFG_10_FD_PERS_DEF"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4f42c5a9c797925f7b2763338d07fbed"><param name="Name" value="SPECTROMETER_CFG_12"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaaf947992655b96299067f8be5fd705f1"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga78c08ada43d3328919ae9c67d57d4f25"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad18385d5c91b96da9ed481b303023740"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga6b10dd078fe188e279db38424d4e3a6e"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4fd3b202da3ca1c3bf123dd589192e4e"><param name="Name" value="SPECTROMETER_CFG_12_SP_TH_CH_4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab43af00d9fb89d7f75f44928b5c76a07"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_05"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4bebf31a5e4652baf8ca94f1ee0aeeb8"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga160dcefab1d85da3918cd75ccb936fa1"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_128"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga5923e4bff1a6158d8dbf99eb2e7270e9"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_16"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab14b5f4bcd7abf14c6cf1d7784267a44"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga23bf658c4319595501b64b222c37e7e8"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_256"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad71de4cf396c75b5d1fb304ac2872271"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_32"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga33d9745fe6bb27ae12e397d10d7abd8e"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga969227a31f17dce336851a71db1a276a"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_512"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga8dca9f25562688f71f9e974ee30e585d"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_64"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad211cdc33c7c31e094b5758826274bb8"><param name="Name" value="SPECTROMETER_CFG_1_AGAIN_8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gac6fd1cbab859a6114b3411b445dc9a1e"><param name="Name" value="SPECTROMETER_CFG_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga160275b052fec15fd984b17531e3394b"><param name="Name" value="SPECTROMETER_CFG_3_SAI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga8f7737edb08946aee2eecce02c3d1139"><param name="Name" value="SPECTROMETER_CFG_6"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2949b0d723c5986c5bebcb654732e49e"><param name="Name" value="SPECTROMETER_CFG_6_SMUX_CMD_0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaebc4381e126359a90367c99793fd94e6"><param name="Name" value="SPECTROMETER_CFG_6_SMUX_CMD_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad8a95c8596fee1c4ab84ef43a09b384f"><param name="Name" value="SPECTROMETER_CFG_6_SMUX_CMD_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad33f47881bb53f231e8a7cff46c33d07"><param name="Name" value="SPECTROMETER_CFG_8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga98f558fae89e17ed72ece6dc2518cc5a"><param name="Name" value="SPECTROMETER_CFG_8_FD_AGC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2260fcfca2a04dec714e58a09d22dae2"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad9458676a3ecaa6af206d6fd35582839"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_16"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga234230f2815f587c6103c02be2c63f27"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa5000bbfeb689d8528c3ace697b03859"><param name="Name" value="SPECTROMETER_CFG_8_FIFO_TH_8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2571a7fd591b088457ba3e699cc5b42f"><param name="Name" value="SPECTROMETER_CFG_8_SP_AGC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2a4887fe20f34742c8d36e39a098ce3d"><param name="Name" value="SPECTROMETER_CFG_9"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad9afe2e273d64f7409faadb24b01b5af"><param name="Name" value="SPECTROMETER_CFG_9_SIEN_FD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gadb23af213821622fe196818c1d788043"><param name="Name" value="SPECTROMETER_CFG_9_SIEN_SMUX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga20d9d5d54b5602e3e69957d0cf1315fd"><param name="Name" value="SPECTROMETER_CFG_INT_MODE_SPM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa171210b8745472d7ec58c6603e20e69"><param name="Name" value="SPECTROMETER_CFG_INT_MODE_SYND"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaea9ec3643134194f4066cb95c8f78d75"><param name="Name" value="SPECTROMETER_CFG_INT_MODE_SYNS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf00625f0ae41f97e3d290ee33c2e2428"><param name="Name" value="SPECTROMETER_CFG_INT_SEL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4a768f3cc0af92cebc378a00b061d085"><param name="Name" value="SPECTROMETER_CFG_LED_SEL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga93b2cb01e8e82eba22abf91eb278a261"><param name="Name" value="SPECTROMETER_CH0_ADC_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga628d293fccb02ea2755b9dce5d47274a"><param name="Name" value="SPECTROMETER_CH0_ADC_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga910e4c6a96aea068537dbf4cfa069f3a"><param name="Name" value="SPECTROMETER_CH0_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gafcaa8c610499e7a3179c0b2bbd2d8a0b"><param name="Name" value="SPECTROMETER_CH0_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gac7fcaa57f9d0dd222dc11851bbf0f03d"><param name="Name" value="SPECTROMETER_CH1_ADC_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa4529c431e3008f7d29bb496bc290000"><param name="Name" value="SPECTROMETER_CH1_ADC_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga81bcd2cb73f3c4fc362e6c317854b788"><param name="Name" value="SPECTROMETER_CH1_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1ff2a26d04b867af55c10777d651cf48"><param name="Name" value="SPECTROMETER_CH1_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gac8cb219c2a7107d6a335255320ce7645"><param name="Name" value="SPECTROMETER_CH2_ADC_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga5a84b47f47ee36b5901153b7aff427b6"><param name="Name" value="SPECTROMETER_CH2_ADC_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gabf22e7b3680433b30b6476e45ec0c1f6"><param name="Name" value="SPECTROMETER_CH2_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gada5b48a63f1e2c4073b12e217d49d19f"><param name="Name" value="SPECTROMETER_CH2_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga18536e2ab85907e12771e20a5a4762ec"><param name="Name" value="SPECTROMETER_CH3_ADC_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1bb757e554613a9c2bdd762e91f3bd79"><param name="Name" value="SPECTROMETER_CH3_ADC_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaab86d613954902c38bfc717f79f759d1"><param name="Name" value="SPECTROMETER_CH3_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gadc4e4c35828f68dba12408cba123adaa"><param name="Name" value="SPECTROMETER_CH3_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga887d4123911363cb8b5109e72dcd4fbb"><param name="Name" value="SPECTROMETER_CH4_ADC_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga6e8d127d51cecc3f93b0a9a29264bf71"><param name="Name" value="SPECTROMETER_CH4_ADC_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gabf4393879d5be7d2d7366b6ba68a02ef"><param name="Name" value="SPECTROMETER_CH4_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa6474142f95b8e25a3557fc99b073d08"><param name="Name" value="SPECTROMETER_CH4_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga06c6fc105cec6f65d9fa2bca10fc5e6a"><param name="Name" value="SPECTROMETER_CH5_ADC_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga23832b4013d25e3b11288d7611a8723a"><param name="Name" value="SPECTROMETER_CH5_ADC_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gabce5e4c6e002dbe3745bc770ef8ebad5"><param name="Name" value="SPECTROMETER_CH5_DATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaeb8c19e6ae1898d7dc356d6c64960ef0"><param name="Name" value="SPECTROMETER_CH5_DATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga58eda231fe6e3bfc162eadf14e35e8f6"><param name="Name" value="SPECTROMETER_CTL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4d6b64dc90d078900c86acee2ef6a23d"><param name="Name" value="SPECTROMETER_CTL_AZ_SP_MAN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae25b401bde6f3d2be5243d47052aaf69"><param name="Name" value="SPECTROMETER_CTL_CLR_SAI_ACT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2cfcb5719392dab53e163323100291b4"><param name="Name" value="SPECTROMETER_CTL_FIFO_CLR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad1352475e07bb8649b94acb845f66c40"><param name="Name" value="SPECTROMETER_DETECTED_100_HZ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga7cae2d186e2fd6d2169281c5a684e598"><param name="Name" value="SPECTROMETER_DETECTED_120_HZ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2571ab9c2b3d6057d12d45229f8eb821"><param name="Name" value="SPECTROMETER_ENABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga3f0c5bf408ed8ff9ca39883af129b066"><param name="Name" value="SPECTROMETER_EN_FDEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4bd68356851d8e939f4c0f579a52af4b"><param name="Name" value="SPECTROMETER_EN_PON"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga938a32a2371102ab85b083cb707c8d00"><param name="Name" value="SPECTROMETER_EN_SMUXEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga5192ff5f893078eaffe44ef2433f7975"><param name="Name" value="SPECTROMETER_EN_SP_EN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae1839d1de7af4f4f8700cb20dd70bffd"><param name="Name" value="SPECTROMETER_EN_WEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaed78da02406d2080621addb83f85eb2d"><param name="Name" value="SPECTROMETER_FDATA_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga74fa87401fdc9439a5e6d9c31f57705a"><param name="Name" value="SPECTROMETER_FDATA_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga6b0a1551a93690a4d91076b1eb7304c5"><param name="Name" value="SPECTROMETER_FD_CFG0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2721ed14bac9186fc2ed7607e7bcaf24"><param name="Name" value="SPECTROMETER_FD_CFG0_FD_FIFO"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab5309d2aaf9589660d93b92705848d71"><param name="Name" value="SPECTROMETER_FD_STAT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga78b7e8b34edf438ca7f3d67828de16f0"><param name="Name" value="SPECTROMETER_FD_STAT_FD_100HZ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaecd980648b72828132639ed21c3cee6c"><param name="Name" value="SPECTROMETER_FD_STAT_FD_100HZ_VALID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaea1233ec994c36a29c4d140ba1bbf684"><param name="Name" value="SPECTROMETER_FD_STAT_FD_120HZ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga0c04535b049a90deb3227d69a421296e"><param name="Name" value="SPECTROMETER_FD_STAT_FD_120HZ_VALID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gadb00a376dc2861c81a4635c58291a06d"><param name="Name" value="SPECTROMETER_FD_STAT_FD_SAT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga00e47a66c3fda3baf3ce9e9e7c0486d4"><param name="Name" value="SPECTROMETER_FD_STAT_FD_VALID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gafd6a912296380c2b26479b69d877b524"><param name="Name" value="SPECTROMETER_FD_TIME_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga8b679c9cf862a1ca6b35fb917eb214ab"><param name="Name" value="SPECTROMETER_FD_TIME_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gafc7220d68cbd2eba925ee43d7260e05d"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_05"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gacef03bf59e43f8d28afdb88073d3af98"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga6edf7db768869b2dd930c9ec38a28e46"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_128"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga13333c60c5e31a82742a95d7db57014f"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_16"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae2200f637c2e4c7e59bcc753b7bd5bcc"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2a0df2d985f0dab801a5d7aa06662bbb"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_256"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaba74e79598f17337a80a597614e5fcdd"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_32"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gacb2ed0bd0be2ce6cf400e573d82e3b90"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2fcaa506468a52bbc3e88dac3eca136b"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_512"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1b592cb21fd85839040e5efca9f28479"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_64"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab4f124017cfb156e27a3ce4693d60918"><param name="Name" value="SPECTROMETER_FD_TIME_2_FD_GAIN_8"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gafab196e7052828e0bda8a93625fe9a58"><param name="Name" value="SPECTROMETER_FIFO_LVL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga65ef8f7d12f54724b0a280b98ff663db"><param name="Name" value="SPECTROMETER_FIFO_MAP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga88d1b620608077d3f79acd9a480194f9"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_ASTAT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga3695cc7f14428c6001b86bde69798444"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gac3f8b6e8aa7dea0df60a69d10a01afaa"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga48edc8af13c1b480885087ff8468c3b4"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab95685a8a9a96bf9146dd8f3d9e5cb06"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae2124e9a84ad1678d5d6129ec4541a92"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH5"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga27bff388efc5dbe6ca749d6b35e33f3b"><param name="Name" value="SPECTROMETER_FIFO_MAP_WR_DATA_CH6"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga133acd5d71f603979a3e6d13e95b289a"><param name="Name" value="SPECTROMETER_GPIO"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga0997b565c78c7257fb05f340928e3397"><param name="Name" value="SPECTROMETER_GPIO_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaea4ba53b213eb6a1ae26d2e0c0b93714"><param name="Name" value="SPECTROMETER_GPIO_2_GPIO_IN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga963f2b8166c67a288afd4fc6f8fa9dee"><param name="Name" value="SPECTROMETER_GPIO_2_GPIO_INV"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1abf61e5dbdd7a66b6302d7f464c99f9"><param name="Name" value="SPECTROMETER_GPIO_2_GPIO_OUT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga79f73b9c57637f8b149bdd85fdb9e889"><param name="Name" value="SPECTROMETER_GPIO_PD_GPIO"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gac4fb8c3e5c75b7819ac417bdacb4ee61"><param name="Name" value="SPECTROMETER_GPIO_PD_INT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga831d6a48978e06eee120153e41e902f0"><param name="Name" value="SPECTROMETER_I2C_DEV_ADR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga645d3e4c6536c861425b0f1545a6a2c1"><param name="Name" value="SPECTROMETER_ID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf34a7815c783cd20b3d349f9cb5e02cd"><param name="Name" value="SPECTROMETER_ID_VALUE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga15b433a8361aae1ce76bb4074bdd8f73"><param name="Name" value="SPECTROMETER_INIT_ERROR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaedf248d28e3a5461ad02f3a0f1a5a4dd"><param name="Name" value="SPECTROMETER_INTENAB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga43bd12a414eb931f96584d78c0d4b5a2"><param name="Name" value="SPECTROMETER_INTENAB_ASIEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf7d19fce36bd939a52c1084c4539b96f"><param name="Name" value="SPECTROMETER_INTENAB_F_IEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gadbaf5496a4e82d795276d212f6a2bc22"><param name="Name" value="SPECTROMETER_INTENAB_SIEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf604636dec946b3409e9eefc69ab6433"><param name="Name" value="SPECTROMETER_INTENAB_SP_IEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad1d0d38e0bf22a9c8e1d1fb69eee6b80"><param name="Name" value="SPECTROMETER_ITIME_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga681035af56af49ca4abfae7ac1dd2907"><param name="Name" value="SPECTROMETER_ITIME_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga701a1fdbc9628701a314dbb0de2f9aad"><param name="Name" value="SPECTROMETER_ITIME_M"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gadb21968e3206b2a851fe42d4b3eaec26"><param name="Name" value="SPECTROMETER_LED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gafb2d0ce75632caf6768d0bd49d70ae82"><param name="Name" value="SPECTROMETER_LED_LED_ACT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga7bcd37dee3f12765a6290a8cb683ffce"><param name="Name" value="SPECTROMETER_LED_LED_DRV_10MA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga4d14f86b9fe02bf12de42c2c0f4348f9"><param name="Name" value="SPECTROMETER_LED_LED_DRV_12MA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga3d5f2d7703821d6f772a60c35d3e70e5"><param name="Name" value="SPECTROMETER_LED_LED_DRV_256MA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab6c3111900a1487b9cc885a2595d934b"><param name="Name" value="SPECTROMETER_LED_LED_DRV_258MA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga21bb6bb9c852c626b4fc9f0d06b19d9d"><param name="Name" value="SPECTROMETER_LED_LED_DRV_4MA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga6ce673fd2d8ddf481569e7d073db63b5"><param name="Name" value="SPECTROMETER_LED_LED_DRV_6MA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1a5740d4ceac239bcbaa2b608fc09e49"><param name="Name" value="SPECTROMETER_LED_LED_DRV_8MA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga082bc90e6f56853e4f3039c83572c0bf"><param name="Name" value="SPECTROMETER_MAP_MIKROBUS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae3a32ab88642d84edd02fec2fd63314f"><param name="Name" value="SPECTROMETER_OK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gab52727b5e7c15c24f25fe87f6f2a2864"><param name="Name" value="SPECTROMETER_PERS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad6940d0707f69f33e670a2100f9e1e66"><param name="Name" value="SPECTROMETER_PERS_APERS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga0c15916d6879a5f8008f37519da02d4b"><param name="Name" value="SPECTROMETER_PERS_APERS_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga9501272ed6381977a307e17415c9d138"><param name="Name" value="SPECTROMETER_PERS_APERS_10"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gacb832e9b77143d4cc7b86e556de0595c"><param name="Name" value="SPECTROMETER_PERS_APERS_15"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga174b665d191cd08db0b7c1fe40bf7feb"><param name="Name" value="SPECTROMETER_PERS_APERS_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga74e6e63c50319e9bd877eb34bbdc7536"><param name="Name" value="SPECTROMETER_PERS_APERS_20"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gabdcc379c842835be62e27e44e4c22b45"><param name="Name" value="SPECTROMETER_PERS_APERS_25"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga334323f1803d622709201b46248ddfad"><param name="Name" value="SPECTROMETER_PERS_APERS_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf4719707478420262cc87c6493aea679"><param name="Name" value="SPECTROMETER_PERS_APERS_30"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2f5805fda987682e851372187aa3ed39"><param name="Name" value="SPECTROMETER_PERS_APERS_35"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga66c49d693593813250de38b9c2b60ea3"><param name="Name" value="SPECTROMETER_PERS_APERS_40"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf96b1b29b10e64e070b96188a23b7243"><param name="Name" value="SPECTROMETER_PERS_APERS_45"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa1b1531d0eb647f5b5b80bcf4ebed390"><param name="Name" value="SPECTROMETER_PERS_APERS_5"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga32706c10feb534295d90a8754c6184e0"><param name="Name" value="SPECTROMETER_PERS_APERS_50"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf50fdbd99af9cd0720f0c55744048889"><param name="Name" value="SPECTROMETER_PERS_APERS_55"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga0839c20ba250792ce6703c9bfcb963d2"><param name="Name" value="SPECTROMETER_PERS_APERS_60"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaeabbd345573b0b4adbf2b1fb59eb33ee"><param name="Name" value="SPECTROMETER_READING_ERROR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga804240c29a49c2b46212f4cd1e7a3c05"><param name="Name" value="SPECTROMETER_RETVAL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad918722f5f361d719107588e6b937972"><param name="Name" value="SPECTROMETER_REVID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae058483d460bca67ee3d1b8087f7a14f"><param name="Name" value="SPECTROMETER_SP_TH_H_LSB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga8c327c5728f597e11f8f7ab15340b81d"><param name="Name" value="SPECTROMETER_SP_TH_H_MSB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1f4761a254864b57fb02e287f5321caa"><param name="Name" value="SPECTROMETER_SP_TH_L_LSB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga245374eebc32806d02b21dba6ac6e9f1"><param name="Name" value="SPECTROMETER_SP_TH_L_MSB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga21b5f25c2eb084717ba3bd2b6c6ebdb8"><param name="Name" value="SPECTROMETER_STAT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad28717a6dd20dc5bc4da4bf858012c33"><param name="Name" value="SPECTROMETER_STATUS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad4e45a9026eb0607fff2d7d779214079"><param name="Name" value="SPECTROMETER_STATUS_AINT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga3ef38bf0c76c1bcf14aa20e9b79c7332"><param name="Name" value="SPECTROMETER_STATUS_ASAT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2a1518743c8d3513e4a88a234b4bf83f"><param name="Name" value="SPECTROMETER_STATUS_CINT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gafa83ff16c2c5d711581e91d36b8b3063"><param name="Name" value="SPECTROMETER_STATUS_FINT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gabd3752af9da6e47b96ef8256472efe2c"><param name="Name" value="SPECTROMETER_STATUS_SINT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga92cc50668abf667c3c29ed1ac1a34f9d"><param name="Name" value="SPECTROMETER_STAT_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga40db7237908d47c65abbc4602fcf63ac"><param name="Name" value="SPECTROMETER_STAT_2_ASAT_ANA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga05bc93fc8b19f1dddbb0b5015ec6c714"><param name="Name" value="SPECTROMETER_STAT_2_ASAT_DIG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1070fc23f490d112b8c9f2ca9f3253f6"><param name="Name" value="SPECTROMETER_STAT_2_AVALID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gacde26d512c4b05f0aa8854d4f503fa89"><param name="Name" value="SPECTROMETER_STAT_2_FDSAT_ANA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga25eb4b0244daed9cc8d3eea683fdba9a"><param name="Name" value="SPECTROMETER_STAT_2_FDSAT_DIG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga793c28f2e60896bb6cc61682bb1166ba"><param name="Name" value="SPECTROMETER_STAT_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga30c47c0f67fae09f87ce1c9d9ea6b19d"><param name="Name" value="SPECTROMETER_STAT_3_INT_SP_H"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa4dd7b0a8b5aa64a6f2cfaad084300b3"><param name="Name" value="SPECTROMETER_STAT_3_INT_SP_L"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf293b9c50362b148010fde2597c0509f"><param name="Name" value="SPECTROMETER_STAT_5"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga1ce2dcb383b4385fda787ce313f09dee"><param name="Name" value="SPECTROMETER_STAT_5_SINT_FD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaabc4bc469196d17f587cbea13fc69b21"><param name="Name" value="SPECTROMETER_STAT_5_SINT_SMUX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga55f2c85850f4483447d8481d7430cbaf"><param name="Name" value="SPECTROMETER_STAT_6"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga349df0fd7d366e428bd4bc7f8c07ab7f"><param name="Name" value="SPECTROMETER_STAT_6_FD_TRIG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2c655d110f56b0137d6d17692c0268a5"><param name="Name" value="SPECTROMETER_STAT_6_FIFO_OV"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf0de5ad7da4408e9446de3289d737510"><param name="Name" value="SPECTROMETER_STAT_6_INT_BUSY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga96bdf1fb97396c3c76ca81abdbbead93"><param name="Name" value="SPECTROMETER_STAT_6_OVTEMP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf4c6690120f4eed266d5351653736a43"><param name="Name" value="SPECTROMETER_STAT_6_SAI_ACT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga6ba456326e4c9c8fc0f4f8fc65e51dd7"><param name="Name" value="SPECTROMETER_STAT_6_SP_TRIG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga30d733a5c21837cca2bd035d26a5c6b7"><param name="Name" value="SPECTROMETER_STAT_READY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga071dd2178e8b9a03cb45e58d02c8b7d4"><param name="Name" value="SPECTROMETER_STAT_WAIT_SYNC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaa27ef14cfc859dd477834919cf834fec"><param name="Name" value="SPECTROMETER_SYNC_EDGE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga9ba6d031eba46eba85ecbef7730165b6"><param name="Name" value="SPECTROMETER_UNKNOWN_FREQ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga649773bc2d28b473b8d7353eb9d2cae3"><param name="Name" value="SPECTROMETER_WTIME"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga705c1a976d41c526751c0ef6961636fd"><param name="Name" value="spectrometer_cfg_setup"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae7ded6d017a1858c6e7ee40c55d302bf"><param name="Name" value="spectrometer_def_cfg"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga01dd4d8c59f8dc0a71a16305e3e32b8c"><param name="Name" value="spectrometer_f1f4_clr_nir"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae33ff06eb70de5d898818ec234c917b2"><param name="Name" value="spectrometer_f5f8_clr_nir"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaf759445adad50dc67adb7db2541054b4"><param name="Name" value="spectrometer_fd_cfg"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga06c8b8e9dde3268f5f5be90d45b8a1f6"><param name="Name" value="spectrometer_flicker_detection"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2fa9b32e2a0dbfb08ec310c3c2c79c40"><param name="Name" value="spectrometer_generic_read"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gaed663c326bfb1938c51948e487ddb4ac"><param name="Name" value="spectrometer_generic_write"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga892d5a1f52c8bea155717e2f009c4201"><param name="Name" value="spectrometer_get_data_ready"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gac836b32e64d262dde04027f9666f1319"><param name="Name" value="spectrometer_get_int"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gae2b9f5099a0ee3a5d01ca51b47687f8f"><param name="Name" value="spectrometer_get_smux_en"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga8188fc881c1931b352a70e34743191d5"><param name="Name" value="spectrometer_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga25340e25e94ae21bbb52c1725045e911"><param name="Name" value="spectrometer_pon"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga2c861c56ddfa1dbd660fbf9ded474776"><param name="Name" value="spectrometer_raw_rd_val_mode_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#gad3273e7fecc5bc4023f04b789cbbbb0f"><param name="Name" value="spectrometer_raw_rd_val_mode_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga5901a787ec0fbc99943b6859059fd093"><param name="Name" value="spectrometer_reg_bank_cfg"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga0e181e382a1d7d174a81307495cc4517"><param name="Name" value="spectrometer_smux_en"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html"><param name="Name" value="spectrometer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="spectrometer_8h.html#ga75f4774e14cc95a7ff73a3b50a190d9e"><param name="Name" value="spectrometer_sp_en"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga705c1a976d41c526751c0ef6961636fd"><param name="Name" value="spectrometer_cfg_setup"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html"><param name="Name" value="spectrometer_cfg_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html"><param name="Name" value="spectrometer_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="Name" value="i2c_address"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html"><param name="Name" value="spectrometer_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="Name" value="i2c_speed"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html"><param name="Name" value="spectrometer_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#aca157de093dd75a2685a6b26c1c2d576"><param name="Name" value="int_pin"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html"><param name="Name" value="spectrometer_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="Name" value="scl"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html"><param name="Name" value="spectrometer_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="Name" value="sda"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gae7ded6d017a1858c6e7ee40c55d302bf"><param name="Name" value="spectrometer_def_cfg"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga01dd4d8c59f8dc0a71a16305e3e32b8c"><param name="Name" value="spectrometer_f1f4_clr_nir"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gae33ff06eb70de5d898818ec234c917b2"><param name="Name" value="spectrometer_f5f8_clr_nir"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaf759445adad50dc67adb7db2541054b4"><param name="Name" value="spectrometer_fd_cfg"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga06c8b8e9dde3268f5f5be90d45b8a1f6"><param name="Name" value="spectrometer_flicker_detection"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga2fa9b32e2a0dbfb08ec310c3c2c79c40"><param name="Name" value="spectrometer_generic_read"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaed663c326bfb1938c51948e487ddb4ac"><param name="Name" value="spectrometer_generic_write"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga892d5a1f52c8bea155717e2f009c4201"><param name="Name" value="spectrometer_get_data_ready"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gac836b32e64d262dde04027f9666f1319"><param name="Name" value="spectrometer_get_int"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gae2b9f5099a0ee3a5d01ca51b47687f8f"><param name="Name" value="spectrometer_get_smux_en"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga8188fc881c1931b352a70e34743191d5"><param name="Name" value="spectrometer_init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga25340e25e94ae21bbb52c1725045e911"><param name="Name" value="spectrometer_pon"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga2c861c56ddfa1dbd660fbf9ded474776"><param name="Name" value="spectrometer_raw_rd_val_mode_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gad3273e7fecc5bc4023f04b789cbbbb0f"><param name="Name" value="spectrometer_raw_rd_val_mode_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga5901a787ec0fbc99943b6859059fd093"><param name="Name" value="spectrometer_reg_bank_cfg"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga0e181e382a1d7d174a81307495cc4517"><param name="Name" value="spectrometer_smux_en"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga75f4774e14cc95a7ff73a3b50a190d9e"><param name="Name" value="spectrometer_sp_en"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html"><param name="Name" value="spectrometer_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html"><param name="Name" value="spectrometer_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="Name" value="i2c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html"><param name="Name" value="spectrometer_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html#a9474fb5652d7ba15f0048b07f9360af6"><param name="Name" value="int_pin"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html"><param name="Name" value="spectrometer_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structspectrometer__t.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="Name" value="slave_address"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
