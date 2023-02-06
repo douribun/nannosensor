@@ -76,10 +76,10 @@ ESP8266WebServer server(80);
 ArduCAM myCAM(OV5642, CS);
 
 //set the LED pin******************************************************************************
-int redpin = D3;//D3 D5, 9 select the pin for the green LED
-int greenpin = D4; //D4 D6, 11, select the pin for the red LED
-int bluepin =D8; //D8 D7, 10 select the pin for the  blue LED
-int val;
+//int redpin = D3;//D3 D5, 9 select the pin for the green LED
+//int greenpin = D4; //D4 D6, 11, select the pin for the red LED
+//int bluepin =D8; //D8 D7, 10 select the pin for the  blue LED
+//int val;
 
 /////////////////////////////////////////////////
 //   Updates Properties file with resolution  ///
@@ -607,9 +607,9 @@ void setup() {
   Serial.begin(115200);
   Serial.println("ArduCAM Start!");
   //set LED pin
-  pinMode(redpin, OUTPUT);
-  pinMode(greenpin, OUTPUT);
-  pinMode(bluepin, OUTPUT);  
+  //pinMode(redpin, OUTPUT);
+  //pinMode(greenpin, OUTPUT);
+  //pinMode(bluepin, OUTPUT);  
 
   // set the CS as an output:
   pinMode(CS, OUTPUT);
@@ -721,6 +721,6 @@ void setup() {
 //    Main loop function   //
 /////////////////////////////
 void loop() {
-  analogWrite(greenpin, 254);
+  //analogWrite(greenpin, 254);
   server.handleClient();
 }
